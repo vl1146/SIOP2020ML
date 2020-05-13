@@ -1,2 +1,2 @@
 # SIOP2020ML
-Data from the SIOP 2020 machine learning competition
+Files and data from the SIOP 2020 machine learning competition for Introduction to Machine Learning class Spring 2020
