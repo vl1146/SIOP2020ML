@@ -1,2 +1,3 @@
 # SIOP2020ML
-Files and data from the SIOP 2020 machine learning competition for Introduction to Machine Learning class Spring 2020
+
+Datasets contain results from employee assessments administered prior to hiring. Candidate profiles with more than 25% missing values were omitted. Any remaining missing values were imputed using the K-nearest neighbors algorithm. Anaylsis was performed in Python using the scikit-learn library. 
